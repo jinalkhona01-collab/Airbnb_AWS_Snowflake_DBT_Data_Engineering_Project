@@ -1,0 +1,1 @@
+SELECT * FROM AIRBNB.silver.silver_hosts
