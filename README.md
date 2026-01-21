@@ -78,7 +78,7 @@ AWS_DBT_Snowflake/
 │
 └── aws_dbt_snowflake_project/         # Main dbt project
     ├── dbt_project.yml                 # dbt project configuration
-    ├── ExampleProfiles.yml             # Snowflake connection profile
+    ├── profiles.yml                     # Snowflake connection profile
     │
     ├── models/                         # dbt models
     │   ├── sources/
@@ -350,3 +350,4 @@ This project is part of a data engineering portfolio demonstration.
 - [ ] Add alerting and monitoring
 - [ ] Implement data masking for PII
 - [ ] Add more comprehensive testing suite
+
